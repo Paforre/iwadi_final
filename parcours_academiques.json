@@ -1,0 +1,94 @@
+[
+  {
+    "type": "Parcours Excellence",
+    "formations": [
+      {
+        "filière": "Informatique",
+        "écoles": "Université d'Abomey-Calavi, Institut National des Métiers de l'Électronique et de l'Informatique",
+        "domaine": "Sciences et Technologies",
+        "niveau": "Licence"
+      },
+      {
+        "filière": "Data Scientist",
+        "écoles": "Université d'Abomey-Calavi, École Polytechnique d'Abomey-Calavi",
+        "domaine": "Sciences et Technologies",
+        "niveau": "Master"
+      },
+      {
+        "filière": "Mathématiques",
+        "écoles": "Université d'Abomey-Calavi, Université de Parakou",
+        "domaine": "Sciences et Technologies",
+        "niveau": "Doctorat"
+      }
+    ]
+  },
+  {
+    "type": "Parcours Public",
+    "formations": [
+      {
+        "filière": "Licence en Informatique",
+        "écoles": "Université d'Abomey-Calavi, Université de Parakou",
+        "domaine": "Sciences et Technologies",
+        "niveau": "Licence"
+      },
+      {
+        "filière": "Licence en Mathématiques",
+        "écoles": "Université d'Abomey-Calavi, Université de Parakou",
+        "domaine": "Sciences et Technologies",
+        "niveau": "Licence"
+      },
+      {
+        "filière": "Licence en Statistiques",
+        "écoles": "Université d'Abomey-Calavi, Université de Parakou",
+        "domaine": "Sciences et Technologies",
+        "niveau": "Licence"
+      }
+    ]
+  },
+  {
+    "type": "Parcours Normal",
+    "formations": [
+      {
+        "filière": "Dessin",
+        "écoles": "École des Beaux-Arts du Bénin, École des Arts et Métiers du Bénin",
+        "domaine": "Arts et Culture",
+        "niveau": "Bac"
+      },
+      {
+        "filière": "Informatique",
+        "écoles": "École des Métiers de l'Informatique et de l'Électronique, École des Technologies de l'Information et de la Communication",
+        "domaine": "Sciences et Technologies",
+        "niveau": "Licence"
+      },
+      {
+        "filière": "Mathématiques",
+        "écoles": "École des Sciences et Technologies, École des Mathématiques et de la Physique",
+        "domaine": "Sciences et Technologies",
+        "niveau": "Licence"
+      }
+    ]
+  },
+  {
+    "type": "Parcours Privé",
+    "formations": [
+      {
+        "filière": "Data Scientist",
+        "écoles": "École Supérieure de Gestion et de Technologie, École des Technologies de l'Information et de la Communication",
+        "domaine": "Sciences et Technologies",
+        "niveau": "Master"
+      },
+      {
+        "filière": "Informatique",
+        "écoles": "École des Métiers de l'Informatique et de l'Électronique, École des Technologies de l'Information et de la Communication",
+        "domaine": "Sciences et Technologies",
+        "niveau": "Licence"
+      },
+      {
+        "filière": "Statistiques",
+        "écoles": "École des Sciences et Technologies, École des Mathématiques et de la Physique",
+        "domaine": "Sciences et Technologies",
+        "niveau": "Licence"
+      }
+    ]
+  }
+]
